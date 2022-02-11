@@ -1,8 +1,8 @@
 # Site settings
 title: Lens
 description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
-baseurl: "https://dayanaquirozaraujo.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dayanaquirozaraujo.github.io"
 author:
 
 # Collection settings
