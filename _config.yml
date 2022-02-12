@@ -1,6 +1,6 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+title: Daydream Store
+description: Accesorios personalizados. <a href="http://html5up.net">HTML5 UP</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dayanaquirozaraujo.github.io"
 author:
@@ -10,16 +10,16 @@ collections:
   photos:
 
 # Social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+#500px_url:
+facebook_url:"https://www.facebook.com/daydream.store25"
+#github_url:
+#gitlab_url: https://gitlab.com/u/andrewbanchich
+#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url:https://instagram.com/daydream.store_?utm_medium=copy_link
+#linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+#pinterest_url:
+#slack_url:
+#twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
